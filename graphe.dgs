@@ -1,0 +1,21 @@
+DGS004
+null 0 0
+an c1 x=0 y=0
+an c2 x=0 y=2
+an c3 x=2 y=0
+an c4 x=2 y=2
+an c5 x=1 y=1
+ae 12 c1 c2
+ce 12 "length":2
+ae 24 c2 c4
+ce 24 "length":1
+ae 34 c3 c4
+ce 34 "length":1
+ae 31 c3 c1
+ce 31 "length":3
+ae 15 c1 c5
+ce 15 "length":2
+ae 35 c3 c5
+ce 35 "length":2
+ae 25 c2 c5
+ce 25 "length":4

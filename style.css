@@ -1,0 +1,14 @@
+node {
+    size: 3px;
+    fill-color: #777;
+    text-mode: hidden;
+    z-index: 0;
+    text-offset : 20px,10px;
+}
+
+edge {
+    shape: line;
+    fill-color: #222;
+    arrow-size: 3px, 2px;
+    text-offset : 12px,9px;
+}
